@@ -9,6 +9,11 @@
 - **Progressive Disclosure**: On mobile, data is displayed in chunks of four and a "Show more" button can be clicked to reveal more cards. If you have gone through a few pages on Desktop then switching to a mobile will reset the list to show the first four entries.
 - **Sorting**: The list is sorted in ascending order by default. I have added a button which changes the icon within it to depict the sort order as well as toggle the sort order on clicking the button.
 
+  <img width="308" alt="image" src="https://github.com/user-attachments/assets/b6632aae-3483-4d7f-b215-bad1cbb48831" />
+  <img width="1512" alt="image" src="https://github.com/user-attachments/assets/cd0842d7-cb90-499d-ba87-218e9a0f4d4b" />
+
+
+
 ## Convention & Best practices
 
 - **Hooks**: I have added a few custom hooks and abstracted logic out of the main Users component to improve readability and modularise the code.
